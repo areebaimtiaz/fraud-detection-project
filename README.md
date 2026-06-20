@@ -126,12 +126,11 @@ streamlit run app.py
 ---
 
 ## Author
-Your Name  
-Machine Learning / Data Science Enthusiast
+Areeba Imtiaz
+Aspiring data analyst
 
 ---
 
 ## Project Status
 Completed ✔  
-Ready for Internship Submission ✔  
 Portfolio Project ✔
